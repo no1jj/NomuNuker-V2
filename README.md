@@ -7,4 +7,3 @@ V2.0
 
 Pulse_Nuker : https://github.com/cintagram/Pulse_Nuker
 
-테스트 안해봄
