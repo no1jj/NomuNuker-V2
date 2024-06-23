@@ -147,7 +147,7 @@ async def on_command_error(error):
 
 @client.event
 async def on_guild_channel_create(channel):
-    await channel.send(config.response)
+    await channel.send(random_response()))
 TOKEN = config.token
 client.run(TOKEN)
 
